@@ -10,7 +10,7 @@ This repository contains my solutions to Homework 2, covering numerical integrat
 •pytest
 
 ##Environment Setup
-git clone <https://github.com/tzu-hsuan-lin/Computational-Astrophysics-HW2>
+git clone https://github.com/tzu-hsuan-lin/Computational-Astrophysics-HW2
 cd Computational-Astrophysics-HW2
 uv venv --python 3.11
 uv pip install --python .venv/bin/python -r requirements.txt
